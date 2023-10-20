@@ -9,6 +9,7 @@
  Ваш контактный номер: <телефон>.
 */
 
+
 import java.util.Scanner;
 
 public class Delivery {
